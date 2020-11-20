@@ -804,6 +804,11 @@ based session store. Supports all backends supported by Fortune (MongoDB, Redis,
 [tch-nedb-session-url]: https://www.npmjs.com/package/tch-nedb-session
 [tch-nedb-session-image]: https://badgen.net/github/stars/tomaschyly/NeDBSession?label=%E2%98%85
 
+[![★][better-sqlite3-session-store-image] better-sqlite3-session-store][better-sqlite3-session-store-url] A session store based on [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3).
+
+[better-sqlite3-session-store-url]: https://www.npmjs.com/package/better-sqlite3-session-store
+[better-sqlite3-session-store-image]: https://badgen.net/github/stars/timdaub/better-sqlite3-session-store?label=%E2%98%85
+
 ## Example
 
 A simple example using `express-session` to store page views for a user.
